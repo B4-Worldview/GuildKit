@@ -1,0 +1,5 @@
+app_identifier("com.jpmcglone.GuildKitDemo") # The bundle identifier of your app
+apple_id("jp@jpmcglone.com") # Your Apple email address
+
+itc_team_id("72830803") # App Store Connect Team ID
+team_id("28HAX9NHD8") # Developer Portal Team ID

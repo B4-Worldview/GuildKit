@@ -1,0 +1,23 @@
+PODS:
+  - GuildKit (0.1.0):
+    - lottie-ios
+  - lottie-ios (3.2.1)
+
+DEPENDENCIES:
+  - GuildKit (from `../GuildKit`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - lottie-ios
+
+EXTERNAL SOURCES:
+  GuildKit:
+    :path: "../GuildKit"
+
+SPEC CHECKSUMS:
+  GuildKit: 4599fcdc09a6bf1de839212ff905ed31072ee8b6
+  lottie-ios: 106e92eaf11fbed0a76590b4cdb9b5ec26123ff7
+
+PODFILE CHECKSUM: 529fcb336dfed8896dc7ef6a86980859f1bbc97c
+
+COCOAPODS: 1.10.1
