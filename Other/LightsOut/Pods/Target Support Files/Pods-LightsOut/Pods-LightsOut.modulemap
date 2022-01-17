@@ -1,6 +1,0 @@
-framework module Pods_LightsOut {
-  umbrella header "Pods-LightsOut-umbrella.h"
-
-  export *
-  module * { export * }
-}
